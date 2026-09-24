@@ -26,7 +26,7 @@ student_id,student_name,course,city,age,gender,enrollment_date,course_fee,discou
 25,Sita,UI/UX,Biratnagar,27,Male,2026-04-13,5000,10,Pending,86.0,97,37,3,Ishan,9830320015,user24@gmail.com,Ongoing
 26,Gita,Python with AI/ML,Biratnagar,22,Male,2026-02-22,5000,20,Pending,95.0,38,96,5,Manish,9877015603,user25@gmail.com,Completed
 27,Ram,Flutter,Pokhara,31,Female,2026-02-25,5000,20,Pending,78.0,85,89,3,Manish,9812961053,user26@gmail.com,Ongoing
-28,Suman,Python with AI/ML,Pokhara,27,Female,2026-03-02,10000,0,Pending,98.0,51,83,4,Samriddha,9898794165,user27@gmail.com,Ongoing
+28,Suman,Python with AI/ML,Pokhara,27,Female,2026-03-02,10000,64.0,Pending,98.0,51,83,4,Samriddha,9898794165,user27@gmail.com,Ongoing
 29,Gita,MERN Stack,Biratnagar,29,Male,2026-03-13,7000,10,Pending,,98,80,5,Samriddha,9822305489,user28@gmail.com,Ongoing
 30,Anisha,Flutter,Dharan,30,Male,2026-02-19,7000,20,Paid,64.0,99,83,4,Manish,9856441656,user29@gmail.com,Ongoing
 31,Hari,MERN Stack,Pokhara,19,Male,2026-06-22,10000,0,Paid,83.0,55,47,3,Ishan,9893662023,user30@gmail.com,Completed
