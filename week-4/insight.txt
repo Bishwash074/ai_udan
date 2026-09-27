@@ -1,0 +1,10 @@
+Business Insights
+
+1. Course popularity
+Python with AI/ML is the most popular course, with 102 students (20.4%) enrolled. Advanced Excel and UI/UX each have 90 students, while MERN Stack has the fewest with 68 students.
+
+2. Payment method preference
+Cash is the most commonly used payment method, with 139 students (27.8%) using it. eSewa is used by 129 students, Bank Transfer by 124 students, and Khalti by 108 students.
+
+3. Attendance and final score
+The data shows a positive relationship between attendance and final score. The correlation between Attendance Percentage and Final Score is approximately 0.42, suggesting that students with higher attendance generally tend to have higher final scores.
